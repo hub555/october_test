@@ -89,6 +89,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         initView();
         getDataFromNet("全部科室", "", "0");
 
+        Log.d("_---------------------","git");
+
     }
 
     //初始化视图
